@@ -1,0 +1,4 @@
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\waMercaL\bin\waMercaL.dll
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\waMercaL\bin\waMercaL.pdb
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\waMercaL\obj\Debug\waMercaL.dll
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\waMercaL\obj\Debug\waMercaL.pdb

@@ -1,0 +1,4 @@
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dao\bin\Debug\MercaL.dao.dll
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dao\bin\Debug\MercaL.dao.pdb
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dao\obj\Debug\MercaL.dao.dll
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dao\obj\Debug\MercaL.dao.pdb

@@ -1,0 +1,5 @@
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dto\bin\Debug\MercaL.dto.dll.config
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dto\bin\Debug\MercaL.dto.dll
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dto\bin\Debug\MercaL.dto.pdb
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dto\obj\Debug\MercaL.dto.dll
+C:\Users\nahum\Desktop\MercaL\SolutionMercaL\MercaL.dto\obj\Debug\MercaL.dto.pdb

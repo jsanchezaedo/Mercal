@@ -1,0 +1,15 @@
+Administrator:
+jose
+123456
+--------------------------------
+Market:
+userMarket
+userMarket
+--------------------------------
+cliente:
+userClient
+userClient
+--------------------------------
+Producto Supplier
+userProducts
+userProducts
